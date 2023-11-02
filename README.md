@@ -1,4 +1,3 @@
-# ProgramMobile
 # DeretBilanganFibonacii
 ### Nama           :  Nadiatul umah ###
 ### NIM            : 312210500 ###
